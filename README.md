@@ -34,7 +34,7 @@ The project includes basic accessibility practices:
 * Meaningful structure for page sections
 
 
-## 🔗 Live Demo[]
+## 🔗 Live Demo[https://code-with-alia.github.io/catering-landingpage/]
 
 
 ## 🌐 External Resources
